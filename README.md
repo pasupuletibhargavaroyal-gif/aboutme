@@ -287,9 +287,9 @@ Overall Score        ⭐⭐⭐⭐⭐
 
 📱 Mobile: +91 94411 22306
 
-🔗 LinkedIn: linkedin.com/in/YOUR_LINKEDIN_USERNAME
+🔗 LinkedIn 
 
-💻 GitHub: github.com/YOUR_GITHUB_USERNAME
+💻 GitHub:    
 
 </div>
 
