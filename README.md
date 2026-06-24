@@ -233,14 +233,6 @@ F --> G[Production Environment]
 
 ---
 
-# 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasupuletibhargavaroyal-gif&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasupuletibhargavaroyal-gif&layout=compact)
-
----
-
 # 🏆 Certifications
 
 ## Microsoft Azure
