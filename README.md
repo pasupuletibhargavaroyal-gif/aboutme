@@ -1,304 +1,220 @@
-# 👋 Hi, I'm Bhargava Pasupuleti
+# 🚀 Bhargava Pasupuleti
 
 <div align="center">
 
-# 🚀 Senior DevSecOps Engineer | Cloud Architect | Platform Engineer
+<img src="assets/bhargava.png" width="220"/>
 
-### Building Intelligent Cloud Platforms Through DevSecOps, Kubernetes & AI Automation
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:0D1117,100:00E5FF&text=BHARGAVA%20PASUPULETI&fontColor=FFFFFF&animation=twinkling&fontSize=55&desc=Senior%20DevSecOps%20Engineer%20|%20Cloud%20Architect%20|%20AI%20Builder&descAlignY=65"/>
 
-<img src="https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20GCP-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DevSecOps-Expert-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kubernetes-Advanced-purple?style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Senior+DevSecOps+Engineer;Cloud+Architect;Platform+Engineer;Azure+%7C+AWS+%7C+GCP;Kubernetes+%7C+Terraform;Founder+of+Pipeline+AI;Founder+of+One+Local;AI-Powered+Automation"/>
 
 </div>
 
 ---
 
-## 🌟 About Me
+# 🌌 DIGITAL COMMAND CENTER
 
-Experienced **Senior DevSecOps Engineer** with **8+ years** of expertise in:
+<table>
+<tr>
+<td width="50%">
 
-- ☁️ Multi-Cloud Architecture (Azure, AWS, GCP)
-- 🚀 CI/CD Automation
-- 🔐 DevSecOps Implementation
-- ☸️ Kubernetes Platform Engineering
-- 🏗️ Infrastructure as Code (Terraform)
-- 🐳 Containerization & Microservices
-- 📊 Monitoring & Observability
-- 🤖 AI-Powered DevOps Automation
+## 👨‍💻 About Me
 
-Currently building **Pipeline AI**, an AI-powered platform that transforms natural language requirements into production-ready CI/CD pipelines.
+☁️ Multi-Cloud Architect
 
----
+🚀 8+ Years Experience
 
-# 🧠 Professional Summary
+⚙️ Kubernetes & Terraform Expert
 
-```yaml
-Name: Bhargava Pasupuleti
-Role: Senior DevSecOps Engineer
-Experience: 8+ Years
-Location: Andhra Pradesh, India
+🔒 DevSecOps Specialist
 
-Specializations:
-  - DevSecOps
-  - Platform Engineering
-  - Kubernetes
-  - Terraform
-  - Azure
-  - AWS
-  - GCP
-  - CI/CD Automation
-  - AI Automation
+🤖 AI Automation Builder
 
-Current Focus:
-  - AI Powered CI/CD Generation
-  - Platform Engineering
-  - Cloud Native Solutions
-```
+🌍 Founder of Pipeline AI & One Local
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ Technology Stack
+# ☁️ CLOUD ECOSYSTEM
 
-## ☁️ Cloud Platforms
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-
----
-
-## 🚀 DevOps & CI/CD
-
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-## ☸️ Containers & Orchestration
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
-
----
-
-## 🏗️ Infrastructure as Code
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
-
----
-
-## 🔐 Security & Quality
-
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk)
-
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube)
-
-![Veracode](https://img.shields.io/badge/Veracode-FF6600?style=for-the-badge)
-
----
-
-## 📊 Monitoring & Observability
-
-![Datadog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog)
-
----
-
-# 💼 Professional Experience
-
-## 🏢 HTC Global Services
-
-### Senior Engineer – Cloud & Infra Services
-
-📅 June 2023 – Present
-
-### Responsibilities
-
-- GitLab Component-Based Pipeline Engineering
-- Kubernetes Platform Management
-- GCP Infrastructure Administration
-- Snyk Security Integration
-- DataDog Monitoring & Observability
-- Enterprise DevSecOps Automation
-- CI/CD Standardization
-
-### Technologies
+<div align="center">
 
 ```text
-GCP
-GitLab
-Kubernetes
-Snyk
-Kaniko
-DataDog
-Terraform
+                         ☁️ MULTI CLOUD
+
+      🔷 AZURE ◄════════════════════► 🟠 AWS
+           ╲                         ╱
+            ╲                       ╱
+             ╲                     ╱
+              ╲                   ╱
+               ╲                 ╱
+                🔴 GOOGLE CLOUD
+
+      ☸️ Kubernetes • 🏗 Terraform • 🔄 GitOps
 ```
+
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,terraform,docker"/>
+
+</div>
 
 ---
 
-## 🏢 Persistent Systems
+# 🤖 PIPELINE AI
 
-### DevOps Engineer
+<div align="center">
 
-📅 September 2022 – June 2023
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=00FF88&width=900&lines=Natural+Language+Request;AI+Processing+Engine;CI/CD+Pipeline+Generation;Security+Scanning;Terraform+Deployment;Kubernetes+Release"/>
 
-### Responsibilities
-
-- Azure DevOps Implementation
-- YAML Pipeline Migration
-- Release Automation
-- Build Engineering
-- SonarQube Integration
-- Veracode Security Scanning
-
-### Technologies
+</div>
 
 ```text
-Azure DevOps
-Docker
-Terraform
-YAML Pipelines
-SonarQube
-Veracode
+📝 Natural Language
+        │
+        ▼
+🤖 AI Engine
+        │
+        ▼
+⚙️ CI/CD Generation
+        │
+        ▼
+🔒 Security Scanning
+        │
+        ▼
+🏗 Terraform
+        │
+        ▼
+☸️ Kubernetes
+        │
+        ▼
+🚀 Production
 ```
+
+<img src="https://skillicons.dev/icons?i=gitlab,github,jenkins,terraform,kubernetes,docker,python"/>
 
 ---
 
-## 🏢 Pacter Edge
-
-### Cloud Engineer
-
-📅 June 2018 – September 2022
-
-### Responsibilities
-
-- Azure Cloud Migration
-- Infrastructure Automation
-- Disaster Recovery
-- Azure Networking
-- Backup & Recovery
-- Cloud Optimization
-
-### Technologies
+# 🌍 ONE LOCAL
 
 ```text
-Azure
-Jenkins
-Docker
-Terraform
-Cloud Migration
+                   👤 CUSTOMER
+                        │
+                        ▼
+
+              🌍 ONE LOCAL PLATFORM
+
+                        │
+
+      ┌─────────────────┼─────────────────┐
+
+      ▼                 ▼                 ▼
+
+   🏪 STORES       🛠 SERVICES       🚚 DELIVERY
+
+      │                 │                 │
+
+      ▼                 ▼                 ▼
+
+  📦 PRODUCTS     👨‍🔧 PROFESSIONALS    🚴 PARTNERS
+
+      └──────────────► CUSTOMER ◄─────────┘
+```
+
+### Services
+
+⚡ Electrician
+
+🚿 Plumbing
+
+🧹 Cleaning
+
+🏗 Construction
+
+🚗 Mechanics
+
+🚚 Delivery
+
+🏪 Local Shops
+
+🍽 Restaurants
+
+---
+
+# ⚙️ DEVSECOPS INFINITY LOOP
+
+```text
+                     📋 PLAN
+                        ▲
+                        │
+
+⚙️ BUILD ◄══════════════╬══════════════► 🚀 DEPLOY
+
+                        │
+                        ▼
+
+                     🧪 TEST
+
+═══════════════════════════════════════════
+
+🔒 SECURITY • 📊 MONITORING • ☸️ KUBERNETES
+
+🏗 TERRAFORM • ☁️ CLOUD • 🤖 AUTOMATION
+
+═══════════════════════════════════════════
 ```
 
 ---
 
-# 🚀 Featured Project
+# 🚀 TECHNOLOGY GALAXY
 
-# Pipeline AI
+<div align="center">
 
-## AI-Powered CI/CD Pipeline Generator
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,gitlab,github,jenkins,python,bash,linux"/>
 
-Transform Natural Language into Production-Ready DevSecOps Pipelines
-
-### Workflow
-
-```mermaid
-flowchart TD
-
-A[User Requirement]
---> B[AI Engine]
-
-B --> C[Pipeline Generation]
-
-C --> D[Security Scanning]
-
-D --> E[Terraform Generation]
-
-E --> F[Kubernetes Deployment]
-
-F --> G[Production Environment]
-```
-
-### Features
-
-- AI Generated YAML Pipelines
-- Terraform Automation
-- Kubernetes Manifest Generation
-- Security Automation
-- Multi-Cloud Deployment
-- GitOps Ready Architecture
+</div>
 
 ---
 
-# 🏆 Certifications
+# 🐍 CONTRIBUTION SNAKE
 
-## Microsoft Azure
-
-✅ AZ-900 Azure Fundamentals
-
-✅ AZ-104 Azure Administrator
+![Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## Google Cloud
+# 🚧 CURRENT MISSIONS
 
-✅ Professional DevOps Engineer
+🟦 Pipeline AI          ████████░░ 80%
 
----
+🟩 One Local            ██████░░░░ 60%
 
-## Atlassian
+🟪 AI Agents            ███████░░░ 70%
 
-✅ Agile Project Management Professional
-
----
-
-# 🎯 Current Learning
-
-```yaml
-Learning:
-  - AI Powered DevOps
-  - Platform Engineering
-  - Agentic AI
-  - Kubernetes Advanced Patterns
-  - Cloud Security
-  - AIOps
-```
+🟨 Platform Engineering █████████░ 90%
 
 ---
 
-# 🌐 Connect With Me
+# 💡 PHILOSOPHY
 
-## 💼 LinkedIn
+> Great engineering is not about managing infrastructure.
+>
+> It's about automating everything that can be automated.
 
-https://www.linkedin.com/in/bhargava-pasupuleti-b1780a249/
-
-## 🐙 GitHub
-
-https://github.com/pasupuletibhargavaroyal-gif
-
-## 📧 Email
-
-pasupuletibhargavaroyal@gmail.com
-
-## 📱 Mobile
-
-+91-9441122306
-
----
-
-# 💡 Personal Motto
-
-> "Automate Everything. Secure by Design. Scale with Confidence."
+**— Bhargava Pasupuleti**
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, feel free to connect and collaborate!
+### 🚀 Automating Infrastructure • Securing Delivery • Accelerating Innovation
 
-🚀 DevSecOps | ☁️ Cloud | ☸️ Kubernetes | 🤖 AI Automation
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,100:00E5FF"/>
 
 </div>
