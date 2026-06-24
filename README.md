@@ -281,8 +281,6 @@ Overall Score        ⭐⭐⭐⭐⭐
 
 ### 🌐 Connect With Me
 
-[LinkedIn Badge] [GitHub Badge] [Gmail Badge] [Mobile Badge]
-
 📧 Email: pasupuletibhargavaroyal@gmail.com
 
 📱 Mobile: +91 94411 22306
