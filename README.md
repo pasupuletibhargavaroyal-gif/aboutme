@@ -271,6 +271,27 @@ Overall Score        ⭐⭐⭐⭐⭐
 ---
 
 <div align="center">
+<div align="center">
+
+<img src="assets/bhargava.png" width="220"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:0D1117,100:00E5FF&text=BHARGAVA%20PASUPULETI&fontColor=FFFFFF&animation=twinkling&fontSize=55&desc=Senior%20DevSecOps%20Engineer%20|%20Cloud%20Architect%20|%20AI%20Builder&descAlignY=65"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Senior+DevSecOps+Engineer;Cloud+Architect;Platform+Engineer;Azure+%7C+AWS+%7C+GCP;Kubernetes+%7C+Terraform;Founder+of+Pipeline+AI;Founder+of+One+Local;AI-Powered+Automation"/>
+
+### 🌐 Connect With Me
+
+[LinkedIn Badge] [GitHub Badge] [Gmail Badge] [Mobile Badge]
+
+📧 Email: pasupuletibhargavaroyal@gmail.com
+
+📱 Mobile: +91 94411 22306
+
+🔗 LinkedIn: linkedin.com/in/YOUR_LINKEDIN_USERNAME
+
+💻 GitHub: github.com/YOUR_GITHUB_USERNAME
+
+</div>
 
 ### 🚀 Automating Infrastructure • Securing Delivery • Accelerating Innovation
 
