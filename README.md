@@ -1,304 +1,246 @@
-# 👋 Hi, I'm Bhargava Pasupuleti
-
 <div align="center">
 
-# 🚀 Senior DevSecOps Engineer | Cloud Architect | Platform Engineer
+<img src="assets/bhargava.png" width="220" alt="Bhargava Pasupuleti"/>
 
-### Building Intelligent Cloud Platforms Through DevSecOps, Kubernetes & AI Automation
+# 🚀 Bhargava Pasupuleti
 
-<img src="https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20GCP-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DevSecOps-Expert-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kubernetes-Advanced-purple?style=for-the-badge" />
+### Senior DevSecOps Engineer | Cloud Architect | Platform Engineer | AI Product Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Senior+DevSecOps+Engineer;Cloud+Architect;Platform+Engineer;Azure+%7C+AWS+%7C+GCP;Kubernetes+%7C+Terraform;Building+Pipeline+AI;Building+One+Local" />
+
+<p>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:pasupuletibhargavaroyal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## 🌟 About Me
+# 💫 About Me
 
-Experienced **Senior DevSecOps Engineer** with **8+ years** of expertise in:
+<table>
+<tr>
 
-- ☁️ Multi-Cloud Architecture (Azure, AWS, GCP)
-- 🚀 CI/CD Automation
-- 🔐 DevSecOps Implementation
-- ☸️ Kubernetes Platform Engineering
-- 🏗️ Infrastructure as Code (Terraform)
-- 🐳 Containerization & Microservices
-- 📊 Monitoring & Observability
-- 🤖 AI-Powered DevOps Automation
+<td width="35%">
 
-Currently building **Pipeline AI**, an AI-powered platform that transforms natural language requirements into production-ready CI/CD pipelines.
+<img src="assets/bhargava.png" width="250"/>
 
----
+</td>
 
-# 🧠 Professional Summary
+<td width="65%">
 
-```yaml
-Name: Bhargava Pasupuleti
-Role: Senior DevSecOps Engineer
-Experience: 8+ Years
-Location: Andhra Pradesh, India
+🚀 Senior DevSecOps Engineer with 8+ years of experience in Cloud Infrastructure, Platform Engineering, DevSecOps, and Automation.
 
-Specializations:
-  - DevSecOps
-  - Platform Engineering
-  - Kubernetes
-  - Terraform
-  - Azure
-  - AWS
-  - GCP
-  - CI/CD Automation
-  - AI Automation
+☁️ Multi-Cloud Architect specializing in Azure, AWS, and Google Cloud Platform.
 
-Current Focus:
-  - AI Powered CI/CD Generation
-  - Platform Engineering
-  - Cloud Native Solutions
-```
+⚙️ Expert in Kubernetes, Terraform, Docker, GitLab, Azure DevOps, and Jenkins.
+
+🔒 Passionate about DevSecOps, Security Automation, and Cloud-Native Platforms.
+
+🤖 Building AI-driven products that simplify software delivery and local commerce.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ⚡ Technology Stack
+# 🚀 Featured Products
 
-## ☁️ Cloud Platforms
+## 🤖 Pipeline AI
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+<img src="assets/pipeline-ai.png" width="120"/>
 
----
+### AI-Powered DevSecOps Platform
 
-## 🚀 DevOps & CI/CD
-
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-## ☸️ Containers & Orchestration
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
-
----
-
-## 🏗️ Infrastructure as Code
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
-
----
-
-## 🔐 Security & Quality
-
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk)
-
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube)
-
-![Veracode](https://img.shields.io/badge/Veracode-FF6600?style=for-the-badge)
-
----
-
-## 📊 Monitoring & Observability
-
-![Datadog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog)
-
----
-
-# 💼 Professional Experience
-
-## 🏢 HTC Global Services
-
-### Senior Engineer – Cloud & Infra Services
-
-📅 June 2023 – Present
-
-### Responsibilities
-
-- GitLab Component-Based Pipeline Engineering
-- Kubernetes Platform Management
-- GCP Infrastructure Administration
-- Snyk Security Integration
-- DataDog Monitoring & Observability
-- Enterprise DevSecOps Automation
-- CI/CD Standardization
-
-### Technologies
-
-```text
-GCP
-GitLab
-Kubernetes
-Snyk
-Kaniko
-DataDog
-Terraform
-```
-
----
-
-## 🏢 Persistent Systems
-
-### DevOps Engineer
-
-📅 September 2022 – June 2023
-
-### Responsibilities
-
-- Azure DevOps Implementation
-- YAML Pipeline Migration
-- Release Automation
-- Build Engineering
-- SonarQube Integration
-- Veracode Security Scanning
-
-### Technologies
-
-```text
-Azure DevOps
-Docker
-Terraform
-YAML Pipelines
-SonarQube
-Veracode
-```
-
----
-
-## 🏢 Pacter Edge
-
-### Cloud Engineer
-
-📅 June 2018 – September 2022
-
-### Responsibilities
-
-- Azure Cloud Migration
-- Infrastructure Automation
-- Disaster Recovery
-- Azure Networking
-- Backup & Recovery
-- Cloud Optimization
-
-### Technologies
-
-```text
-Azure
-Jenkins
-Docker
-Terraform
-Cloud Migration
-```
-
----
-
-# 🚀 Featured Project
-
-# Pipeline AI
-
-## AI-Powered CI/CD Pipeline Generator
-
-Transform Natural Language into Production-Ready DevSecOps Pipelines
-
-### Workflow
-
-```mermaid
-flowchart TD
-
-A[User Requirement]
---> B[AI Engine]
-
-B --> C[Pipeline Generation]
-
-C --> D[Security Scanning]
-
-D --> E[Terraform Generation]
-
-E --> F[Kubernetes Deployment]
-
-F --> G[Production Environment]
-```
+Transforms natural language requirements into production-ready CI/CD pipelines.
 
 ### Features
 
-- AI Generated YAML Pipelines
-- Terraform Automation
-- Kubernetes Manifest Generation
-- Security Automation
-- Multi-Cloud Deployment
-- GitOps Ready Architecture
+- AI Generated CI/CD Pipelines
+- GitOps Automation
+- Infrastructure as Code Generation
+- Security-Integrated Deployments
+- Kubernetes & Container Automation
+- Multi-Cloud Support
+
+### Technologies
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+
+---
+
+## 🌍 One Local
+
+<img src="assets/one-local.png" width="120"/>
+
+### Hyperlocal Services & Commerce Platform
+
+Connecting customers, merchants, delivery partners, and service professionals in a single ecosystem.
+
+### Services
+
+⚡ Electricians
+
+🚿 Plumbers
+
+🧹 Cleaning Services
+
+🏗 Construction Services
+
+🛠 Mechanics
+
+🚚 Delivery Partners
+
+🏪 Local Stores
+
+---
+
+# 💻 Tech Stack
+
+## ☁️ Cloud Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=gcp" />
+
+</p>
+
+---
+
+## ⚙️ DevOps & Platform Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=gitlab" />
+<img src="https://skillicons.dev/icons?i=jenkins" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=terraform" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=bash" />
+<img src="https://skillicons.dev/icons?i=python" />
+
+</p>
+
+---
+
+## 🔒 DevSecOps
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube"/>
+<img src="https://img.shields.io/badge/Veracode-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog"/>
+
+</p>
+
+---
+
+# 🤖 AI & Automation
+
+- Generative AI
+- AI-Powered CI/CD
+- Prompt Engineering
+- AI Agents
+- AIOps
+- DevSecOps Automation
+- Infrastructure Automation
+- Cloud-Native AI Platforms
 
 ---
 
 # 🏆 Certifications
 
-## Microsoft Azure
+✅ Microsoft Azure Fundamentals (AZ-900)
 
-✅ AZ-900 Azure Fundamentals
+✅ Microsoft Azure Administrator (AZ-104)
 
-✅ AZ-104 Azure Administrator
+✅ Microsoft DevOps Engineer Expert (AZ-400)
 
----
+✅ Google Cloud Professional DevOps Engineer
 
-## Google Cloud
-
-✅ Professional DevOps Engineer
+✅ Atlassian Agile Project Management Professional
 
 ---
 
-## Atlassian
+# 💼 Experience
 
-✅ Agile Project Management Professional
-
----
-
-# 🎯 Current Learning
-
-```yaml
-Learning:
-  - AI Powered DevOps
-  - Platform Engineering
-  - Agentic AI
-  - Kubernetes Advanced Patterns
-  - Cloud Security
-  - AIOps
-```
+| Company | Role | Duration |
+|----------|--------|-----------|
+| HTC Global Services | Senior Engineer Cloud & Infra Services | Jun 2023 – Present |
+| Persistent Systems | DevOps Engineer | Sep 2022 – Jun 2023 |
+| Pacter Edge | Cloud Engineer | Jun 2018 – Sep 2022 |
 
 ---
 
-# 🌐 Connect With Me
+# 📈 GitHub Analytics
 
-## 💼 LinkedIn
+<div align="center">
 
-https://www.linkedin.com/in/bhargava-pasupuleti-b1780a249/
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-## 🐙 GitHub
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-https://github.com/pasupuletibhargavaroyal-gif
-
-## 📧 Email
-
-pasupuletibhargavaroyal@gmail.com
-
-## 📱 Mobile
-
-+91-9441122306
+</div>
 
 ---
 
-# 💡 Personal Motto
+# 🏆 GitHub Trophies
 
-> "Automate Everything. Secure by Design. Scale with Confidence."
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Pipeline AI Development
+- 🌍 One Local Platform Development
+- ☁️ Cloud Architecture & Platform Engineering
+- 🔒 DevSecOps Automation
+- 🚀 Kubernetes & GitOps
+- 🤖 AI-Powered Infrastructure
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, feel free to connect and collaborate!
+## 🚀 Automating Infrastructure | Securing Delivery | Accelerating Innovation
 
-🚀 DevSecOps | ☁️ Cloud | ☸️ Kubernetes | 🤖 AI Automation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0078FF&height=140&section=footer"/>
 
 </div>
